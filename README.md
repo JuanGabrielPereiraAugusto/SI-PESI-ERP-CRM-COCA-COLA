@@ -2,10 +2,13 @@
 
 Trabalho da disciplina de **Sistemas de Informação** na **Fatec Taquaritinga** sobre os sistemas de informação nas organizações: **diretrizes estratégicas** (PESI e COBIT), **sistemas integrados de gestão (ERP)**, **Business Intelligence**, **CRM** e um **estudo de caso da Coca-Cola**.
 
+![Capa da apresentação](capa-apresentacao.png)
+
 | Arquivo | Descrição |
 |---|---|
 | 📄 [`Trabalho_Sistemas_de_Informacao.pdf`](Trabalho_Sistemas_de_Informacao.pdf) | Trabalho completo (9 páginas) |
 | 📝 [`Trabalho_Sistemas_de_Informacao.docx`](Trabalho_Sistemas_de_Informacao.docx) | Versão editável |
+| 📊 [`Apresentacao_Sistemas_de_Informacao.pptx`](Apresentacao_Sistemas_de_Informacao.pptx) | Slides da apresentação (13 slides) |
 
 ---
 
